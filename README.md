@@ -61,8 +61,7 @@
 ## 7 Project Conclusion/Results
 ####Overall, this project gives me an excellent knowledge of inheritance and encapsulation. The project itself performs very well, and it has basic algorithms with simple mathematical expressions, it can handle the input of negative integers. Also, this project cannot handle the fraction because of the result displays in the whole number. I feel better after finishing this project, and I have a better understanding of the OOP principles.
 
-
-
-
-
+## Credits/References
+#### 1. Instructor: Anthony J Souza
+#### 2. Slack Channel: SFSU Computer Science
 
