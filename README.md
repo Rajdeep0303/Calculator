@@ -1,8 +1,4 @@
-# CSC 413 - Project One
-## Assignment 1 – Expression Evaluator CSC 413 Project Documentation Summer 2020
-## Student Name  : Rajdeep Singh
-## Student ID    : 920258882
-## Student Email : rsingh12@mail.sfsu.edu
+# Calculator
 
 ## 1 Introduction
 #### The main goal of the project is to program the calculator to evaluate the given expression in the Java language. In this project, I build a simple calculator that can perform simple addition, subtraction, multiplication, and division.
